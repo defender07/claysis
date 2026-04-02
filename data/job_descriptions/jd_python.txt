@@ -1,0 +1,7 @@
+Job Title: Python Developer
+We are looking for an experienced backend developer.
+Requirements:
+- Strong proficiency in Python, Django or Flask.
+- Experience with REST APIs and databases like Postgres or SQL.
+- Knowledge of cloud computing (AWS) and containerization (Docker).
+- 3+ years of software engineering experience.

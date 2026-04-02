@@ -1,0 +1,5 @@
+Alice Johnson
+Data Scientist
+Experience: 3 years building predictive models, NLP systems, and recommendation engines.
+Skills: Python, Machine Learning, NLP, TensorFlow, PyTorch, Pandas, Scikit-learn, SQL.
+Education: Ph.D. in Data Science.

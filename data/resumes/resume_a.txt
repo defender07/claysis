@@ -1,0 +1,5 @@
+John Doe
+Software Engineer
+Experience: 5 years of experience in developing web applications using Python, Django, and Flask.
+Skills: Python, SQL, REST APIs, Docker, AWS, Git, Postgres.
+Education: B.S. in Computer Science.

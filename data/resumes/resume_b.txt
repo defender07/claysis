@@ -1,0 +1,5 @@
+Jane Smith
+Backend Developer
+Experience: 4 years of enterprise Java development. Worked on microservices architecture.
+Skills: Java, Spring Boot, Hibernate, MySQL, Kubernetes, CI/CD.
+Education: M.S. in Software Engineering.
